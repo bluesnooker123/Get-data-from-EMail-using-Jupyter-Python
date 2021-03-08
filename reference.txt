@@ -1,0 +1,38 @@
+====================================================
+To Get Data from EMail anywhere, you have to Configure Outlook to use IMAP with an Outlook.com account (same as Gmail and other mails)
+
+Google Search Key = "how to set imap in outlook.com" 
+
+
+https://www.techhit.com/how-to/configure-outlook-to-use-IMAP-with-outlook.com-account/
+
+Server name: outlook.office365.com (imap.gmail.com for GMail)
+Port: 993
+Encryption method: TLS
+===================================================
+
+
+
+https://www.thepythoncode.com/article/reading-emails-in-python
+
+https://support.google.com/mail/thread/25697352?hl=en
+
+https://support.microsoft.com/en-us/office/server-settings-you-ll-need-from-your-email-provider-c82de912-adcc-4787-8283-45a1161f3cc3
+
+https://www.codementor.io/@aliacetrefli/how-to-read-outlook-emails-by-python-jkp2ksk95
+
+https://docs.python.org/2/library/imaplib.html
+
+https://stackoverflow.com/questions/61614012/returning-the-time-and-date-of-a-sent-email-imap
+
+https://github.com/1200wd/bitcoinlib/issues/120
+
+https://stackoverflow.com/questions/1287598/datetime-time-has-no-mktime
+
+https://stackoverflow.com/questions/60887003/email-date-conversion-in-python
+
+https://stackoverflow.com/questions/50411346/update-an-excel-sheet-in-real-time-using-python
+
+https://medium.com/better-programming/using-python-pandas-with-excel-d5082102ca27
+
+https://stackoverflow.com/questions/20219254/how-to-write-to-an-existing-excel-file-without-overwriting-data-using-pandas
